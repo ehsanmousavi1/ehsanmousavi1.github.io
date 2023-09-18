@@ -17,7 +17,7 @@ Department of Mathematics, Sharif University. Fall 2023
 
 ![](https://ehsanmousavi1.github.io/NeuralNetwork/assets/images/site-banner.png)
 
-This course is an introduction to deep learning theory. Using tools from mathematics. In the first half of the course, we review the fundamental concepts of deep learning. In the second part of the course, we will focus on theoretical foundations of deep neural Networks.
+This course provides an introductory exploration of deep learning theory, employing mathematical tools as a foundation. In the initial section, we revisit the core principles that underpin deep learning. Later in the course, our attention shifts towards delving into the theoretical underpinnings of deep neural networks
 
 ## Lectures
 <style type="text/css">
