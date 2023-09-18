@@ -15,8 +15,8 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Repo on GitHub:
-    - 'https://ehsanmousavi1.github.io/dnn'
-footer_content: 
+    - 'https://ehsanmousavi1.github.io/'
+footer_content:
 
 # Collections for website data
 collections:
